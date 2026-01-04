@@ -2,7 +2,7 @@
 A modern, sleek, and professional "Travel Companion" mobile application developed with React + Vite.
 
 ## Developed By
-**ÖMER ÖZBAY**
+**gucluyumhe**
 Location: Ağrı / Doğubayazıt / Türkiye
 
 ## Features
